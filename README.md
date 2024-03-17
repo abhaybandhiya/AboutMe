@@ -1,11 +1,11 @@
 <b><h1 align="center"> AboutMe</h1>
 <b/>
 <h1 align="center">Hi 👋, I'm Abhay Bandhiya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> A passionate frontend developer from India</h3>
 
-<img alt="Coder GIF" align="center" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" height="330px" width="200vw" alt="Coder GIF" align="center" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-<div align="center">
+<div>
 💻 I’m currently learning <b>React.js</b>
 
  📱 Ask me about **React.js, jQuery, JavaScript and BootStrap**
@@ -42,10 +42,7 @@
 <br/>  
 
 
-
-
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
