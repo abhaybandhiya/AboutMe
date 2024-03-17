@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Bandhiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="center" alt="coding" width="400" src="https://magiccopy.xyz/assets/images/hadder.gif"> 
 
 <div align="center">
 💻 I’m currently learning <b>React.js</b>
